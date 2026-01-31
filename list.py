@@ -5,4 +5,4 @@ print(type(c[0]))
 l = [1,2,3]
 print(l)
 l = 2*l
-print(l)
+print(l) 
